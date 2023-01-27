@@ -1,2 +1,2 @@
 # sgts
-Sistema de gestão de projetos
+Sistema de gestão de tarefas
